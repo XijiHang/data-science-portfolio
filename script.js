@@ -6,4 +6,4 @@ function showView(view) {
   panels.forEach(panel => { panel.hidden = panel.dataset.panel !== view; });
 }
 buttons.forEach(button => button.addEventListener('click', () => showView(button.dataset.view)));
-showView('error');
+showView('tradeoff');
