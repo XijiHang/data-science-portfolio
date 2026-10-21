@@ -1,0 +1,7 @@
+title: Xiji Hang | Data Science Portfolio
+description: Time-aware forecasting, reproducible analysis and visual explanations of model trade-offs.
+url: https://xijihang.github.io
+baseurl: /data-science-portfolio
+markdown: kramdown
+exclude:
+  - README.md
