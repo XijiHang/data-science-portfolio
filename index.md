@@ -11,7 +11,7 @@ layout: null
   <meta name="theme-color" content="#f6f4ed">
   <title>{{ site.title }}</title>
   <link rel="stylesheet" href="{{ site.baseurl }}/style.css">
-  <script src="{{ site.baseurl }}/script.js" defer></script>
+  <script src="{{ site.baseurl }}/script.js?v=20261021-peer-review" defer></script>
 </head>
 <body>
   <a class="skip" href="#main">Skip to content</a>
