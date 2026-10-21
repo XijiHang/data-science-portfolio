@@ -1,6 +1,7 @@
 ---
 layout: null
 ---
+{::nomarkdown}
 <!doctype html>
 <html lang="en">
 <head>
@@ -43,3 +44,4 @@ layout: null
 <footer class="footer wrap"><div><strong>Evidence before headlines.</strong><p>Data: <a href="https://doi.org/10.24432/C5RK5G">Chen (2017), UCI</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><br>Daily summaries, forecasts and figures are adaptations by Xiji Hang.</p></div><div><a href="https://github.com/XijiHang/data-science-portfolio">Website source ↗</a><a href="https://github.com/XijiHang/data-science-project/blob/main/AI_USAGE.md">AI assistance disclosure ↗</a><span>Portfolio · October 2026</span></div></footer>
 </body>
 </html>
+{:/nomarkdown}
